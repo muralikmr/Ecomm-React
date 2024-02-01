@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/muralikmr.github.io/Ecomm-React/static/css/main.44f8b8b5.css",
+    "main.js": "/muralikmr.github.io/Ecomm-React/static/js/main.52832e09.js",
+    "index.html": "/muralikmr.github.io/Ecomm-React/index.html",
+    "main.44f8b8b5.css.map": "/muralikmr.github.io/Ecomm-React/static/css/main.44f8b8b5.css.map",
+    "main.52832e09.js.map": "/muralikmr.github.io/Ecomm-React/static/js/main.52832e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.52832e09.js"
+  ]
+}
